@@ -4,10 +4,10 @@
     <description>
         Aplikasi laporanku
     </description>
-    <author email="laporanku.co.id@gmail.com" href="http://laporanku.co.id">
+    <author email="laporanku.co.id@gmail.com" href="http://m.laporanku.co.id">
         Laporanku
     </author>
-    <content src="https://m.laporanku.co.id/" />
+    <content src="http://m.laporanku.co.id/"/>
     <plugin name="cordova-plugin-whitelist" spec="1" />
     <access origin="*" />
     <allow-intent href="tel:*" />
@@ -31,7 +31,7 @@
     </platform>
     <preference name="Orientation" value="portrait" />
     <preference name="Fullscreen" value="false" />
-    <allow-navigation hap-rule="yes" href="https://m.laporanku.co.id/*" />
+    <allow-navigation hap-rule="yes" href="*://m.laporanku.co.id/*" />
     <platform name="windows">
     </platform>
     <platform name="wp8">

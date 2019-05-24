@@ -7,7 +7,7 @@
     <author email="laporanku.co.id@gmail.com" href="http://m.laporanku.co.id">
         Laporanku
     </author>
-    <content src="https://app.laporanku.co.id/"/>
+    <content src="https://mobile.laporanku.co.id/"/>
     <plugin name="cordova-plugin-whitelist" spec="1" />
     <access origin="*" />
     <allow-intent href="tel:*" />
